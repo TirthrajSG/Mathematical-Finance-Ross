@@ -1,4 +1,4 @@
-# 📘 Notes on *An Elementary Introduction to Mathematical Finance* (Sheldon M. Ross)
+# 📘 Notes on _An Elementary Introduction to Mathematical Finance_ (Sheldon M. Ross)
 
 This repository contains my personal study notes, solutions, and explanations based on **Sheldon Ross’s book _An Elementary Introduction to Mathematical Finance_**.
 
@@ -15,35 +15,36 @@ This repository contains my personal study notes, solutions, and explanations ba
 
 ## 📑 Index
 
-### Chapter 1 – Introduction
-- 1.1 Overview of Financial Instruments  
-- 1.2 Interest Rates and Present Value  
-- 1.3 Basic Probability Tools  
+### Chapter 1 – Probability
+- 1.1 Probability and Events
+- 1.2 Conditional Probability  
+- 1.3 Random Variables and Expected Values 
+- 1.4 Covariance and Correlation
+- 1.5 Conditional Expectation
+- 1.6 Exercises
 
-### Chapter 2 – The Binomial Model
-- 2.1 One-Period Binomial Model  
-- 2.2 Multi-Period Binomial Model  
-- 2.3 Risk-Neutral Pricing  
+### Chapter 2 – Normal Random Variables
+- 2.1 Continuous Random Variables
+- 2.2 Normal Random Variables  
+- 2.3 Properties of Normal Random Variables
+- 2.4 The Central Limit Theorem
+- 2.5 Exercises  
 
-### Chapter 3 – The Black–Scholes Formula
-- 3.1 Continuous-Time Models  
-- 3.2 Derivation of Black–Scholes  
-- 3.3 Applications and Examples  
+### Chapter 3 – Brownian Motion and Geometric Brownian Motion
+- 3.1 Brownian Motion  
+- 3.2 Brownian Motion as a Limit of Simpler Models 
+- 3.3 Geometric Brownian Motion
+- 3.4 The Maximum Variable
+- 3.5 The Cameron-Martin Theorem
+- 3.6 Exercises 
 
-### Chapter 4 – Options and Hedging
-- 4.1 European & American Options  
-- 4.2 Hedging Strategies  
-- 4.3 Greeks and Sensitivities  
-
-### Chapter 5 – Interest Rates and Bonds
-- 5.1 Term Structure of Interest Rates  
-- 5.2 Bond Pricing  
-- 5.3 Duration and Convexity  
-
-### Chapter 6 – Martingales and Finance
-- 6.1 Martingales in Discrete Time  
-- 6.2 Applications to Finance  
-- 6.3 Extensions  
+### Chapter 4 – Interest Rates and Present Value Analysis
+- 4.1 Interest Rates  
+- 4.2 Present Value Analysis  
+- 4.3 Rate of Return
+- 4.4 Continuously Varying Interest Rates
+- 4.5 Exercises  
+  
 
 *(More chapters/sections will be added as notes progress.)*
 
