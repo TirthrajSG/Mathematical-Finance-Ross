@@ -1,4 +1,4 @@
-# 📘 Notes on _An Elementary Introduction to Mathematical Finance_ (Sheldon M. Ross)
+# 📘 Notes on "An Elementary Introduction to Mathematical Finance" (Sheldon M. Ross)
 
 This repository contains my personal study notes, solutions, and explanations based on **Sheldon Ross’s book _An Elementary Introduction to Mathematical Finance_**.
 
