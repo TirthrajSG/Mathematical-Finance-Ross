@@ -23,12 +23,12 @@ This repository contains my personal study notes, solutions, and explanations ba
 - 1.5 Conditional Expectation ✅
 - 1.6 Exercises ✅
 
-### Chapter 2 – Normal Random Variables
+### Chapter 2 – Normal Random Variables ✅
 - 2.1 Continuous Random Variables ✅
-- 2.2 Normal Random Variables  
-- 2.3 Properties of Normal Random Variables
-- 2.4 The Central Limit Theorem
-- 2.5 Exercises  
+- 2.2 Normal Random Variables ✅
+- 2.3 Properties of Normal Random Variables ✅
+- 2.4 The Central Limit Theorem ✅
+- 2.5 Exercises ✅
 
 ### Chapter 3 – Brownian Motion and Geometric Brownian Motion
 - 3.1 Brownian Motion  
